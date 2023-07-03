@@ -1,0 +1,27 @@
+{
+  "name": "basic_puppeteer",
+  "version": "1.0.0",
+  "description": "Este repositorio es para poner en practica la automatización de pruebas en puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BelsantoUQ/Basic_Puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BelsantoUQ/Basic_Puppeteer/issues"
+  },
+  "homepage": "https://github.com/BelsantoUQ/Basic_Puppeteer#readme",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "puppeteer": "^20.7.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
