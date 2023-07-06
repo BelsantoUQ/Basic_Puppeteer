@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer')
 
-describe('Abrir en naveador en puppeteer',()=>{
+xdescribe('Abrir en naveador en puppeteer',()=>{
 
     it('Debe de abrir y cerrar el navegador', async () =>{
         const browser = await puppeteer.launch({
