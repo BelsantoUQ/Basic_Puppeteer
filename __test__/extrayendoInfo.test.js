@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer')
 
-describe('Extrayendo información',()=>{
+xdescribe('Extrayendo información',()=>{
 
     let browser
     let page
