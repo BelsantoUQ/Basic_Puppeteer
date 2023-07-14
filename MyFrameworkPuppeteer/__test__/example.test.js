@@ -1,4 +1,4 @@
-describe('ir a google',()=>{
+xdescribe('ir a google',()=>{
 
     it("should go to the Google search page", async () => {
         

@@ -20,5 +20,5 @@ describe('Iniciar sesion en la pagina', () => {
 
   it('validar que este en el dashboard', async () => {
     await loginPage.validateLogin()
-  }, 20000)
+  }, 2500)
 })
