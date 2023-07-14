@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx codeceptjs run --features"
+    "test": "npx codeceptjs run --features",
+    "test-dev": "npx codeceptjs run --grep '@probando' --verbose"
   },
   "keywords": [],
   "author": "",
